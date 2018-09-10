@@ -19,5 +19,5 @@ We have compiled some basic natural language processing resources below. You are
 
 Here are a few resources that might be good places to start as you tackle this ambitious project.
 
-http://www.jstatsoft.org/v25/i05/
-http://cran.r-project.org/web/views/NaturalLanguageProcessing.html
+* http://www.jstatsoft.org/v25/i05/
+* http://cran.r-project.org/web/views/NaturalLanguageProcessing.html
