@@ -1,0 +1,12 @@
+name: predictiontext
+title: predictiontext
+username:
+account: antonioavella
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 434720
+bundleId: 1579443
+url: https://antonioavella.shinyapps.io/predictiontext/
+when: 1536622103.49127
+asMultiple: FALSE
+asStatic: FALSE
